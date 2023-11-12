@@ -40,7 +40,7 @@ while lives > 0:
     if '_' not in display:
         print('you won!')
         break
--
+
 if lives > 0:
      print('Well done!')
 elif lives == 0:
